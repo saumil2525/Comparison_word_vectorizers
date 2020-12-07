@@ -6,4 +6,4 @@
 <br>**Calssification Model:** MultiNomial Naive Bayes<br>
 <br>**Performance Measure:** F1 Score, Area under curve & confusion metrix<br>
 <br>**Comparison:** <br>
-- Total 14 Classification Models are used
+- Total 11 Classification Models are used

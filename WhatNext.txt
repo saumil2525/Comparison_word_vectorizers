@@ -1,0 +1,13 @@
+What Next ? 
+
+1. model ensembling
+2. use part of speach tagging
+3. use stemming/lametization
+4. use skip gram (ie. ni-gram, tri-gram)
+5. use pretrained word embedding
+
+
+Pre trained Embedding
+1. https://code.google.com/archive/p/word2vec/
+2. https://code.google.com/archive/p/word2vec/
+3. https://github.com/idio/wiki2vec#prebuilt-models
